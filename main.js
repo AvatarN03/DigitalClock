@@ -24,7 +24,7 @@ window.onload = ()=>{
     const m = ['JAN', 'FEB', 'MAR', 'APR','MAY', 'JUN' , 'JUL', 'AUG' , 'SEP', 'OCT', 'NOV', 'DEC']
     const d = ['MON', 'TUE', 'WED', 'THU','FRI', 'SAT' , 'SUN']
     mth = m[mth]
-    day = d[day-1]
+    day = d[day]
 
 
 
