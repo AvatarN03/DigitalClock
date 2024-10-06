@@ -22,7 +22,7 @@ window.onload = ()=>{
     sec  = sec<10? '0'+sec : sec;
 
     const m = ['JAN', 'FEB', 'MAR', 'APR','MAY', 'JUN' , 'JUL', 'AUG' , 'SEP', 'OCT', 'NOV', 'DEC']
-    const d = ['MON', 'TUE', 'WED', 'THU','FRI', 'SAT' , 'SUN']
+    const d = ['SUN','MON', 'TUE', 'WED', 'THU','FRI', 'SAT']
     mth = m[mth]
     day = d[day]
 
